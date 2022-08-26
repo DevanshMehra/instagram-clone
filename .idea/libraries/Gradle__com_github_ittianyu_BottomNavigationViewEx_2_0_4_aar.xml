@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ittianyu:BottomNavigationViewEx:2.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46ff411f5014f72aa529572f2e76fb00/jetified-BottomNavigationViewEx-2.0.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46ff411f5014f72aa529572f2e76fb00/jetified-BottomNavigationViewEx-2.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46ff411f5014f72aa529572f2e76fb00/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4e80dffa7a00273d3bb232f82be65a45/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/81c8bdbecbaca81e65183caad03215e7/jetified-BottomNavigationViewEx-2.0.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bf50afd95c41b1b32620d6d33d6ff8d/jetified-BottomNavigationViewEx-2.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bf50afd95c41b1b32620d6d33d6ff8d/jetified-BottomNavigationViewEx-2.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bf50afd95c41b1b32620d6d33d6ff8d/jetified-BottomNavigationViewEx-2.0.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.4/9d06b084a4c1c21e4a8a2c20868b4f2049544c9f/BottomNavigationViewEx-2.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ittianyu/BottomNavigationViewEx/2.0.4/4a625175c2beaed42ef779aef650a18a615c129/BottomNavigationViewEx-2.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627542414008",
+    "project_id": "instagram-clone-89102",
+    "storage_bucket": "instagram-clone-89102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627542414008:android:6541cde2ff22a6fcad1a4d",
+        "android_client_info": {
+          "package_name": "my.insta.bawanites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627542414008-ab6acn4v7u94lelljoekk0q77deo7tji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO-p4Bxhs6kuzEo8I5DpHoYkXFrq2Uvt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627542414008-ab6acn4v7u94lelljoekk0q77deo7tji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
